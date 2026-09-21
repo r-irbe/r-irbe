@@ -1,8 +1,8 @@
 # Radu Irbe
 
-Senior / staff engineer. Distributed systems, data platforms, developer tooling.
+Staff engineer. Distributed systems, data platforms, developer tooling, formal verification.
 
-I like making implicit assumptions visible and testable — in caches, pipelines, and agent tool calls.
+I like making implicit assumptions visible and testable.
 
 ## Public work
 
