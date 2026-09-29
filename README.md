@@ -4,7 +4,7 @@ Staff engineer and researcher. Distributed systems, AI infrastructure, developer
 
 *I like making implicit assumptions visible and testable.*
 
-## Public Work
+## Public
 
 - [proof-skills](https://github.com/r-irbe/proof-skills) — Lean 4 / Mathlib4 agent skills, eval suite, Glicko-2 comparison
 - [lean4-lsp-mcp](https://github.com/r-irbe/lean4-lsp-mcp) — MCP server for live Lean 4 proof state and C FFI
@@ -14,7 +14,7 @@ Staff engineer and researcher. Distributed systems, AI infrastructure, developer
 - [r-irbe/ik_llama.cpp](https://github.com/r-irbe/ik_llama.cpp) — Contributions to high-performance local LLM inference, focusing on SOTA low-bit quantizations and CPU/GPU hybrid execution.
 - [r-irbe/pi-lens](https://github.com/r-irbe/pi-lens) — Contributed Lean 4 language support for the LSP-powered extension giving AI coding agents real-time, language-aware feedback to ground reasoning and reduce hallucinations.
 
-## Private Architecture & Research
+## Projects & Research
 
 Much of my recent work lives in private repositories or enterprise environments, spanning planetary-scale backend systems, rigorous AI governance, and formal methods:
 
