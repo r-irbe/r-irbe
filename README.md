@@ -10,8 +10,8 @@ Staff engineer and researcher.
 
 | Project | Focus |
 | :--- | :--- |
-| [proof-skills](https://github.com/r-irbe/proof-skills) | 75 Lean 4 / Mathlib4 proof engineering skills, 200+ templates, AltProof tactic advisor, and Glicko-2 evaluation suite. |
-| [lean4-lsp-mcp](https://github.com/r-irbe/lean4-lsp-mcp) | 21-tool MCP server for live Lean 4 proof state, offline `.ilean` navigation, Galois-pruned counterexample search, and tactic cost ranking. |
+| [proof-skills](https://github.com/r-irbe/proof-skills) | Lean 4 / Mathlib4 proof engineering skills, templates, AltProof tactic advisor, and LLM evaluation suite. |
+| [lean4-lsp-mcp](https://github.com/r-irbe/lean4-lsp-mcp) | MCP server for live Lean 4 proof state, offline `.ilean` navigation, counterexample search, and tactic cost ranking. |
 | [lean-analyzer](https://github.com/r-irbe/lean-analyzer) | In-process abstract interpreter, relational domain solver, and zero-copy `.ilean` indexer for Lean 4 (Rust + WASM), with abstract domain soundness proved in Lean 4. |
 
 ### Agent Governance & Tooling
