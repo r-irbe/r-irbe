@@ -1,6 +1,7 @@
 # Radu Irbe
 
-Staff engineer and researcher working across formal verification, deterministic agent governance, and low-latency distributed systems.
+Staff engineer and researcher.
+
 *Making implicit system assumptions explicit, machine-checkable, and bounded under load.*
 
 ## Public Projects
@@ -39,8 +40,6 @@ Most recent work is in private repositories or enterprise environments.
 - **Microsoft, design.** Observability, load management, and QoS for a CQRS data platform. Design target: >1B reads/hour, <2ms, >99.99% uptime.
 - **Formal methods.** Lean 4 formalization of security, provenance, and convergence properties for an epistemic analysis and AI process-explainability workbench.
 - **Earlier.** Data lineage across languages, delivered to banks and exchanges.
-
-Looking for work that mixes infrastructure with controlled AI-assisted development.
 
 [irbe.ai](https://irbe.ai) · [LinkedIn](https://linkedin.com/in/raduirbe)
 
