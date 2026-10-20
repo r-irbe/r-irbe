@@ -7,7 +7,9 @@ Staff engineer and researcher. Distributed systems, AI infrastructure, developer
 ## Public
 
 - [proof-skills](https://github.com/r-irbe/proof-skills) — Lean 4 / Mathlib4 agent skills, eval suite, Glicko-2 comparison
-- [lean4-lsp-mcp](https://github.com/r-irbe/lean4-lsp-mcp) — MCP server for live Lean 4 proof state and C FFI. Pre-alpha.
+- [lean4-lsp-mcp](https://github.com/r-irbe/lean4-lsp-mcp) — MCP server for live Lean 4 proof state, `.ilean` navigation, tactic advisor, and C FFI. Pre-alpha.
+- [lean-analyzer](https://github.com/r-irbe/lean-analyzer) — In-process abstract interpreter, relational domain solver, and zero-copy `.ilean` indexer for Lean 4 (Rust + WASM), with domain soundness proved in Lean 4.
+- [pi-subagent-compact](https://github.com/r-irbe/pi-subagent-compact) — Pi extension for configurable in-process context compaction and checkpointing with passthrough fallback.
 - [lifecycle-guard](https://github.com/r-irbe/lifecycle-guard) — Fail-closed policy engine for agent tool calls. Spec and design; not a shipped product.
 - [queue-reactive-book](https://github.com/r-irbe/queue-reactive-book) — C++20 limit-order-book and queue-reactive market-making simulator. Throughput figures are machine-local and workload-scoped.
 - [force-sqlite-to-turso](https://github.com/r-irbe/force-sqlite-to-turso) — Preload that routes an agent's existing `better-sqlite3` calls onto a single-writer libSQL server, without changing the agent.
