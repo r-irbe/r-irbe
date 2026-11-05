@@ -1,6 +1,6 @@
 # Radu Irbe
 
-**Systems & Formal Verification Engineer** — *Building fast, verifiable, and crash-safe infrastructure for AI agents, local LLM inference, and low-latency systems.*
+**AI & Platform & Systems & Formal Verification Engineer** — *Building fast, verifiable, and crash-safe infrastructure for AI agents, local LLM inference, and low-latency systems.*
 
 ---
 
@@ -18,7 +18,6 @@
 | Project | What Problem It Solves | Quick Start / Key Gain |
 | :--- | :--- | :--- |
 | [**`lifecycle-guard`**](https://github.com/r-irbe/lifecycle-guard) | Stop coding agents from running `git push --force`, leaking secrets, or editing test scripts to fake passing builds. | Fail-closed `allow / warn / escalate / block` verdicts + SHA-256 audit chain across IDE, Git hooks & CI. |
-| [**`pi-lens Lean4 fork`**](https://github.com/r-irbe/pi-lens) | Catch broken imports, type errors, and downstream impact cascades the moment an agent edits a file. | |
 | [**`force-sqlite-to-turso`**](https://github.com/r-irbe/force-sqlite-to-turso) | Eliminate `SQLITE_BUSY` database lock crashes when running 15+ parallel coding agents on one machine. | Zero-code-change `NODE_OPTIONS` preload routing synchronous `better-sqlite3` to a single-writer server. |
 | [**`pi-subagent-compact`**](https://github.com/r-irbe/pi-subagent-compact) | Keep long-running `pi` sessions from losing task state when conversation history is compacted. | Custom checkpoint templates (`Active goal`, `modified-files`, `Pick up here`) + local model support. |
 
@@ -27,6 +26,7 @@
 | Project | What Problem It Solves | Quick Start / Key Gain |
 | :--- | :--- | :--- |
 | [**`lean4-lsp-mcp`**](https://github.com/r-irbe/lean4-lsp-mcp) | Give AI agents instant Lean 4 proof goals, sub-5ms offline `.ilean` navigation, and automatic counterexample checks. | `npx lean4-lsp-mcp` -- 21 MCP tools so agents stop running slow full-project `lake build` loops. |
+| [**`pi-lens Lean4 fork`**](https://github.com/r-irbe/pi-lens) | Catch broken imports, type errors, and downstream impact cascades the moment an agent edits a file. | |
 | [**`proof-skills`**](https://github.com/r-irbe/proof-skills) | Teach any coding agent modern Lean 4 & Mathlib4 tactics and enforce zero-`sorry`, zero-custom-axiom quality gates. | `apm install r-irbe/proof-skills` -- 65 modular skills + 5-role prover swarm + pure-Python CI gates. |
 
 ### 4. High-Throughput Systems & Algorithms
