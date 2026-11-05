@@ -18,7 +18,7 @@
 | Project | What Problem It Solves | Quick Start / Key Gain |
 | :--- | :--- | :--- |
 | [**`lifecycle-guard`**](https://github.com/r-irbe/lifecycle-guard) | Stop coding agents from running `git push --force`, leaking secrets, or editing test scripts to fake passing builds. | Fail-closed `allow / warn / escalate / block` verdicts + SHA-256 audit chain across IDE, Git hooks & CI. |
-| [**`pi-lens`**](https://github.com/r-irbe/pi-lens) | Catch broken imports, type errors, and downstream impact cascades the moment an agent edits a file. | **47 language servers** (including Lean 4) + **45+ linters** + always-warm symbol index. |
+| [**`pi-lens Lean4 fork`**](https://github.com/r-irbe/pi-lens) | Catch broken imports, type errors, and downstream impact cascades the moment an agent edits a file. | |
 | [**`force-sqlite-to-turso`**](https://github.com/r-irbe/force-sqlite-to-turso) | Eliminate `SQLITE_BUSY` database lock crashes when running 15+ parallel coding agents on one machine. | Zero-code-change `NODE_OPTIONS` preload routing synchronous `better-sqlite3` to a single-writer server. |
 | [**`pi-subagent-compact`**](https://github.com/r-irbe/pi-subagent-compact) | Keep long-running `pi` sessions from losing task state when conversation history is compacted. | Custom checkpoint templates (`Active goal`, `modified-files`, `Pick up here`) + local model support. |
 
