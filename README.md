@@ -33,7 +33,7 @@
 
 | Project | What Problem It Solves | Quick Start / Key Gain |
 | :--- | :--- | :--- |
-| [**`queue-reactive-book`**](https://github.com/r-irbe/queue-reactive-book) | Measure how order-entry latency trades off against spread capture and adverse selection in electronic markets. | **150.7M cancels/sec (6.6 ns/op)** and **220M queue-ahead queries/sec** in C++20 with **0 heap allocations**. |
+| [**`queue-reactive-book`**](https://github.com/r-irbe/queue-reactive-book) | Measure how order-entry latency trades off against spread capture and adverse selection in electronic markets. | **150.7M cancels/sec (6.6 ns/op)** and **220M queue-ahead queries/sec** in C++20, now private repo. |
 | [**`hexcrawler`**](https://github.com/r-irbe/hexcrawler) | Crawl thousands of untrusted domains without SSRF redirect exploits or one slow site blocking the queue. | Every-hop RFC 6890 SSRF defense, per-domain circuit breakers, and 1,100+ zero-mock tests. |
 | [**`dlx`**](https://github.com/r-irbe/dlx) | Solve exact-cover, scheduling, and combinatorial puzzles (Knuth Algorithm X & C) in Java without heap exhaustion. | **50x-100x faster** flat `int[]` matrix + stackless backtracking + memory-mapped solution storage. |
 
