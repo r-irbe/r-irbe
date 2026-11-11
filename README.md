@@ -10,7 +10,7 @@
 
 | Project | What Problem It Solves | Quick Start / Key Gain |
 | :--- | :--- | :--- |
-| [**`llama.cpp-opt`**](https://github.com/r-irbe/llama.cpp-opt) | Run 30B-2.4T models on 1 GPU + system RAM, fit 1M tokens on a 24 GB card, and serve agent swarms without cloud bills. | **22.2x faster** shared team prompts, **23.8x larger** context, **+109%** hybrid CPU+GPU speed. |
+| [**`llama.cpp-opt`**](https://github.com/r-irbe/llama.cpp-opt) | Run 30B-2.4T models on 1 GPU + system RAM, fit 1M tokens on a 24 GB card, and serve agent swarms without cloud bills. | **+50%** hybrid CPU+GPU speed vs upstream (set to private). |
 | [**`ctx-capsule`**](https://github.com/r-irbe/ctx-capsule) | Pack 256K-10M tokens into coding agents without lossy summaries and wire 8 agent CLIs (`Claude`, `Cursor`, `Pi`, `Codex`) in one command. | `npx @r-irbe/ctx-capsule init` + live fullscreen TUI & zero-downtime model switching. |
 
 ### 2. AI Coding-Agent Safety, Reliability & IDE Feedback
